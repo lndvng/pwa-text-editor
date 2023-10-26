@@ -20,4 +20,4 @@ The motive behind this project was to build a text editor that runs in the brows
 ![Screenshot of text editor](./assets/img/PWA-text-editor.png)
 
 ## Video Demo Link
-[Click here for deployed Heroku link](https://git.heroku.com/pwa-text-editor529.git)
+[Click here for deployed Heroku link](https://pwa-text-editor529-00b07254ecfb.herokuapp.com/)
